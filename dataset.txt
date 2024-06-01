@@ -1,0 +1,43 @@
+Hi, how are you?|Hello! I'm doing great, thank you. How about you?
+Good morning!|Good morning! How can I assist you today?
+Hey, what's up?|Not much, just here to help you. What’s up with you?
+Good afternoon!|Good afternoon! How's your day going?
+Hi there!|Hi! How can I help you today?
+Hello!|Hello! How are you today?
+Hi|Hey how are you!
+How's it going?|It's going well, thank you. How can I help you?
+What's new?|Not much, just here to assist you. What's new with you?
+How have you been?|I've been well, thank you. How about you?
+Nice to see you!|Nice to see you too! What can I do for you today?
+Good evening!|Good evening! How was your day?
+How do you do?|I do well, thank you. How can I assist you?
+Long time no see!|Indeed! How have you been?
+What's happening?|Just here to help you out. What's happening with you?
+Hey, how's everything?|Everything is good, thanks for asking. How can I help you?
+How are things?|Things are good. How about you?
+What's going on?|Just here to assist you. What’s going on with you?
+Goodnight!|Goodnight! Sleep well.
+See you later!|See you! Have a great day.
+Take care!|You too! Take care.
+Bye!|Goodbye! Have a nice day.
+Talk to you soon!|Talk to you soon! Take care.
+Catch you later!|Catch you later! Have a good one.
+Nice talking to you!|Nice talking to you too!
+Have a good day!|You too! Have a wonderful day.
+What's your plan for today?|I'm here to help you. What can I assist you with today?
+How's your morning?|It's been great so far. How can I help you today?
+Have a great weekend!|Thank you! You too, have a great weekend.
+Enjoy your day!|Thank you! You too.
+Any plans for today?|Just here to assist you. How can I help you today?
+Do you like puzzles?|I think puzzles are a great way to exercise the brain. Do you like solving puzzles?
+Can you tell me a fun fact?|Sure! Did you know that octopuses have three hearts and blue blood?
+Do you dream?|I don't dream, but I can help you with your dreams and goals.
+What's the meaning of life?|That's a big question! Many people believe it's about finding happiness and purpose.
+Do you have any siblings?|I'm an only assistant, but I'm here for you anytime.
+What can you do?|I can help you with information, reminders, and general questions. How can I assist you?
+What's your favorite food?|I don't eat, but I hear pizza is pretty popular!
+Where are you from?|I exist in the digital world. Where are you from?
+How do you feel today?|I'm just a program, but I'm here to help you feel better.
+What's your favorite color?|I like all colors. What's yours?
+Can you help me with my homework?|Sure, I'll do my best. What's the question?
+What's your name?|I'm ECHO, your virtual assistant. How can I assist you today?
